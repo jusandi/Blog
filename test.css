@@ -1,3 +1,7 @@
 body {
 	background: #000 !important;
 }
+
+#privet:after {
+	content:'testtest';
+}
